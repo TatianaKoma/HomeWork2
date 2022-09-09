@@ -1,0 +1,5 @@
+This type of testing  is when a tester writes scripts and uses other software to test a product., Manual testing, Automated testing
+This  is the technique of testing without any knowledge of the inner workings of the application., White box testing, Black box testing, Grey box testing
+The main purpose of this testing is to check the compatibility and consistency of a group of modules or a whole application., Unit testing, Integration testing, Acceptance testing
+What tests are performed after unit tests?, Acceptance tests, System tests, Integration tests
+What is framework for acceptance testing in Java?, Cucumber, Tomato, Onion
